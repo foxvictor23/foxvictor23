@@ -1,42 +1,16 @@
-<h3> :man: &nbsp;Victor Vasconcelos Moreira </h3>
+<h3> &nbsp;Victor Vasconcelos Moreira </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em **Computação Sistemas de Informação** na <a href="http://www.unilestemg.br/">Unileste</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 👨🏾‍💻 &nbsp; Eu sou um profissional de tecnologia da informação com vasta experiência em suporte técnico/sustentação e coordenação de TI. Além disso, possuo habilidades em desenvolvimento na linguagem PHP e experiências em e-commerce, ERP's, Softwares da área de saúde e financeiros.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+- Com uma paixão pela tecnologia, comecei minha carreira em suporte técnico e sustentação, onde desenvolvi habilidades em gerenciamento de incidentes, solução de problemas, resolução de conflitos, consultas em Bancos de Dados Mysql, SQl Server e PostgreSQL, Análise de logs, debugs e testes de API via Swagger e Postman. Ao longo dos anos, aprimorei minha experiência em coordenação de TI, liderando equipes multifuncionais para entregar projetos complexos em prazos apertados.
 
-**Aplicações e Dados**
+- Minha experiência em desenvolvimento na linguagem PHP me permitiu criar soluções personalizadas para uma variedade de necessidades de negócios utilizando framework Laravel além de atuar também em Projetos utilizando Wordpress e Woocommerce. Sou apaixonado por criar códigos limpos e eficientes, sempre com foco na usabilidade e na segurança.
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- Além disso, possuo conhecimentos sólidos em e-commerce e marketplaces, coordenando equipes de suporte, implantação e desenvolvimento realizando integrações com principais ERP's do Mercado. Além de possuir também experiência em gerenciamento de catálogos de produtos e processamento de pedidos. Minha experiência em e-commerce me permitiu entender os desafios únicos que as empresas enfrentam ao tentar vender online e como criar soluções eficazes para esses problemas.
 
-**Utilidades**
+💡 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente. 
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
 
@@ -48,6 +22,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Victor Vasconcelos Moreira](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorvasconcelosfox/)](https://www.linkedin.com/in/victorvasconcelosfox)
+[![Linkedin: Victor Vasconcelos Moreira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorvasconcelosfox/)](https://www.linkedin.com/in/victorvasconcelosfox)
 [![Gmail Badge](https://img.shields.io/badge/-victorvasconcelosfox@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorvasconcelosfox@gmail.com)](mailto:victorvasconcelosfox@gmail.com)
-[![foxvictor23]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/foxvictor23)
+[![foxvictor23]( https://img.shields.io/github/followers/foxvictor23?label=follow&style=social)](https://github.com/foxvictor23)
