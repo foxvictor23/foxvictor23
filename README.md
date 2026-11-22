@@ -1,7 +1,8 @@
 <h3> &nbsp;Victor Vasconcelos Moreira </h3>
-- 🎓 &nbsp; Pós-Graduado em **Tecnologia da Informação** na <a href="https://pos.facuminas.com.br/">Faculminas</a>.
-- 🎓 &nbsp; Profissional Certificado ITIL V4.
-- 🎓 &nbsp; Graduado em **Computação Sistemas de Informação** na <a href="http://www.unilestemg.br/">Unileste</a>.
+- 🎓 &nbsp; Pós-Graduado em **Tecnologia da Informação** na <a href="https://pos.facuminas.com.br/">Faculminas</a>.<br>
+- 🎓 &nbsp; Profissional Certificado ITIL V4.<br>
+- 🎓 &nbsp; Graduado em **Computação Sistemas de Informação** na <a href="http://www.unilestemg.br/">Unileste</a>.<br>
+
 - 👨🏾‍💻 &nbsp; Eu sou um profissional de tecnologia da informação com vasta experiência em suporte técnico/sustentação e coordenação de TI. Além disso, possuo habilidades em desenvolvimento na linguagem PHP e experiências em e-commerce, ERP's, Softwares da área de saúde e financeiros.
 
 - Com uma paixão pela tecnologia, comecei minha carreira em suporte técnico e sustentação, onde desenvolvi habilidades em gerenciamento de incidentes, solução de problemas, resolução de conflitos, consultas em Bancos de Dados Mysql, SQl Server e PostgreSQL, Análise de logs, debugs e testes de API via Swagger e Postman. Ao longo dos anos, aprimorei minha experiência em coordenação de TI, liderando equipes multifuncionais para entregar projetos complexos em prazos apertados.
